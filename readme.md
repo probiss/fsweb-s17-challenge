@@ -17,10 +17,10 @@ milliyet.com
 macrumors.com
 
 
-[ ] Bu tabloların tasarımını online olarak veya bilgisayarınızda bir yazılım kullanarak dizayn ediniz. 
+[x] Bu tabloların tasarımını online olarak veya bilgisayarınızda bir yazılım kullanarak dizayn ediniz. 
     * tüm veritabanını yapmak zaman alabilir :) bunun için 6-10 tabloyu geçmeyin
     ** her tabloda maksimum 6 alan olsun.
-[ ] Yaptığınız dizayn'ı resim olarak proje dosyasına ekleyiniz.
+[x] Yaptığınız dizayn'ı resim olarak proje dosyasına ekleyiniz.
 
 
 ### Görev 2: SQL İfadeleri
